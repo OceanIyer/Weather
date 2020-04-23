@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Weather/static/css/main.fdd4a8c8.chunk.css",
+    "main.js": "/Weather/static/js/main.ed1910e0.chunk.js",
+    "main.js.map": "/Weather/static/js/main.ed1910e0.chunk.js.map",
+    "runtime-main.js": "/Weather/static/js/runtime-main.44e11c11.js",
+    "runtime-main.js.map": "/Weather/static/js/runtime-main.44e11c11.js.map",
+    "static/js/2.336ea6e7.chunk.js": "/Weather/static/js/2.336ea6e7.chunk.js",
+    "static/js/2.336ea6e7.chunk.js.map": "/Weather/static/js/2.336ea6e7.chunk.js.map",
+    "index.html": "/Weather/index.html",
+    "precache-manifest.4b242a7c65ca3730e77b2a56cdfc3d02.js": "/Weather/precache-manifest.4b242a7c65ca3730e77b2a56cdfc3d02.js",
+    "service-worker.js": "/Weather/service-worker.js",
+    "static/css/main.fdd4a8c8.chunk.css.map": "/Weather/static/css/main.fdd4a8c8.chunk.css.map",
+    "static/js/2.336ea6e7.chunk.js.LICENSE.txt": "/Weather/static/js/2.336ea6e7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Weather/static/media/iPhone X-XS-11 Pro – 2.ae1d923e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44e11c11.js",
+    "static/js/2.336ea6e7.chunk.js",
+    "static/css/main.fdd4a8c8.chunk.css",
+    "static/js/main.ed1910e0.chunk.js"
+  ]
+}
